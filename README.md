@@ -49,7 +49,6 @@ The City-Based Weather Forecasting Web Application uses HTML, CSS, and JavaScrip
 
 This project will explains you about how the outlook of the Amazon can be created . As I have used HTML, CSS, Java Script programming languages in it.
 
-[Amazon FrontEnd Replica](https://github.com/Harishma-M/Amazon-Front-Look)
 [Amazon FrontEnd Replica](https://github.com/Harishma-M/Amazon-Basics)
 
 
