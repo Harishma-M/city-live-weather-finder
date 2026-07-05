@@ -1,5 +1,5 @@
 # City-live-weather-finder
-The City-Based Weather Forecasting Web Application uses HTML, CSS, and JavaScript with API integration to show real-time weather details like temperature, humidity, and conditions. Valid city names display results, while invalid entries return errors. It demonstrates API usage, dynamic data handling, and interactive web development.
+City Weather App Finder is a clean and responsive web application built using HTML, CSS, and JavaScript. Users can search for any city to view current weather conditions, temperature, humidity, wind speed, and hourly forecasts. The application integrates a weather API to deliver accurate real-time data while offering a modern, user-friendly interface suitable for desktop and mobile devices.
 
 # Welcome to [Harishma's](https://github.com/Harishma-M/) profile! <a href="https://github.com/Harishma-M/"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
